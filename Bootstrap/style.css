@@ -1,0 +1,14 @@
+body{
+    background: url(Gigi\ Hadid.jpg)no-repeat center center fixed;
+    background-size: cover;
+
+}
+.hero{
+    color: blueviolet;
+    margin-top: 25%;
+    text-align: right;
+    font-size: 65px;
+    letter-spacing: -.05em;
+    line-height: 1.2em;
+    font-family: 'Dancing Script', cursive;
+}
